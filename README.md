@@ -1,0 +1,2 @@
+# MyVencordTheme
+just a config
